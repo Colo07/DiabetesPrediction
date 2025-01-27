@@ -49,13 +49,12 @@ This project focuses on predicting the likelihood of diabetes in individuals usi
    - Evaluated models using metrics like Accuracy, Precision, Recall and F1-Score.
 
 ## Results (In progress)
-- **Best Model**:
+- **Best Model**: SVM
 - **Key Metrics**:
-  - Accuracy: `XX.XX%`
-  - Precision: `YY.YY%`
-  - Recall: `ZZ.ZZ%`
-  - ROC-AUC: `WW.WW`
-- The model demonstrated good performance, particularly in identifying diabetic cases.
+  - Accuracy: `0.74%` (val data)
+  - Precision: `0.74%` (Prom)
+  - Recall: `0.68%`
+- The model demonstrated good performance, particularly in identifying negatives diabetic cases.
 
 ## How to Run
 1. Clone this repository:
